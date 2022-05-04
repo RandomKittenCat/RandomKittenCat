@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RandomKittenCat
 - 👀 I’m interested in video games
-- 🌱 I’m currently learning python, javascript, FiveM Resource coding.
+- 🌱 I’m currently learning spigot plugin coding, javascript, FiveM Resource coding.
 - 📫 How to reach me: forum.cats585.xyz (it has all my social links too)
 
 <!---
