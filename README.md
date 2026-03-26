@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RandomKittenCat
-- 👀 I’m interested in video games
-- 🌱 I’m currently learning Java & LLM using Python
-- 📫 How to reach me: catsinqs@gmail.com
+- 👀 I’m interested in photography, video games, backend development
+- 🌱 I’m currently learning Java, Javascript, Typescript, React
+- 📫 How to reach me: bello@bellohq.xyz
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=RandomKittenCat&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=RandomKittenCat&theme=radical)
